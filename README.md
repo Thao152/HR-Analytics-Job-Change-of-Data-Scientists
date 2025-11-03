@@ -94,7 +94,7 @@ Table: employment
 - Standardized column names and data types
 - Cleaned missing values (e.g., replaced `'NA'`, `'None'`, `?`)
 
-### 3. **Load**
+3. **Load**
 - Exported the cleaned dataset to:
   - `data.csv` for analysis
  
